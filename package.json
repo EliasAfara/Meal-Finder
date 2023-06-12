@@ -1,0 +1,25 @@
+{
+  "name": "meal-finder",
+  "version": "1.0.0",
+  "description": "Meal Finder web app using HTML, CSS & Vanilla JavaScript",
+  "source": "index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasAfara/Meal-Finder.git"
+  },
+  "author": "Elias AFARA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EliasAfara/Meal-Finder/issues"
+  },
+  "homepage": "https://github.com/EliasAfara/Meal-Finder#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2"
+  }
+}
